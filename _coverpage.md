@@ -2,7 +2,7 @@
 
 ![logo](img/1.png)
 
-# YanCchen
+# <span style="color: #3858b1;">Yan</span><span style="color: #000000;">Cchen</span>
 
 > 一个整洁易懂的文档
 
@@ -11,4 +11,4 @@
 [查看项目](https://yan.vin:86)
 [阅读文档](README)
 
-![color](#f0f0f0)
+![背景图](https://api.mfstudio.cc/bing/)
