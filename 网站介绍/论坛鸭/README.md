@@ -1,5 +1,6 @@
 ## 主页图
-![](../../img/lty/lty.png)
+
+<img src="../../img/lty/lty.png" height="400px" class="img" />
 
 ## 论坛鸭介绍
 

@@ -1,5 +1,6 @@
 ## 主页图
-![](../../img/dhy/dhy.png)
+
+<img src="../../img/dhy/dhy.png" height="400px" class="img" />
 
 ## 导航页介绍
 

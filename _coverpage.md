@@ -11,4 +11,4 @@
 [查看项目](https://yan.vin:86)
 [阅读文档](README)
 
-![背景图](https://api.mfstudio.cc/bing/)
+![背景图](https://api.blogs.ink/api/img/)

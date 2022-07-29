@@ -1,5 +1,6 @@
 ## 主页图
-![](../../img/tc/tc.png)
+
+<img src="../../img/tc/tc.png" height="350px" class="img" />
 
 ## 图床介绍
 

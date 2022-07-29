@@ -1,6 +1,5 @@
 ## 主页图
-![](../../img/grbk/grbk.png)
-![](../../img/grbk/grbk2.png)
+<img src="../../img/grbk/grbk.png" height="335px" class="img" /><img src="../../img/grbk/grbk2.png" height="335px" class="img" />
 
 ## 个人博客介绍
 

@@ -1,6 +1,6 @@
 ## 主页图
-![](../../img/dhy2/dhy21.png)
-![](../../img/dhy2/dhy22.png)
+
+<img src="../../img/dhy2/dhy21.png" height="320px" class="img" /><img src="../../img/dhy2/dhy22.png" height="320px" class="img" />
 
 ## 导航页Ⅱ介绍
 

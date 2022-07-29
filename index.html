@@ -9,9 +9,11 @@
     <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="//unpkg.com/docsify@4/lib/themes/vue.css" />
     <style>
+      /* 首页背景笼罩 */
       .mask {
         background-color: rgba(255, 255, 255, 0.88) !important;
       }
+      /* /首页背景笼罩 */
       .app-name-link img {
         width: 120px;
         max-width: 50vw;
@@ -19,7 +21,7 @@
       .img {
         margin: 16px 0;
         border-radius: 12px;
-        border: 2px solid #5f88f1;
+        border: 2px solid #a200ff;
         transition: all 0.3s ease-in-out;
       }
       .img:hover {
@@ -32,7 +34,7 @@
     <div id="app">Yan正在努力奔跑中.....</div>
     <script>
       window.$docsify = {
-        logo: "http://120.48.74.126/images/logo%20-%20%E5%89%AF%E6%9C%AC.png",
+        logo: "./img/logo.png",
         // themeColor: "#3F51B5",
         formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}",
         name: "KiviBot",
@@ -74,5 +76,7 @@
     <script src="//unpkg.com/prismjs@1/components/prism-typescript.min.js"></script>
     <script src="//unpkg.com/prismjs@1/components/prism-bash.min.js"></script>
     <script src="//unpkg.com/prismjs@1/components/prism-json.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   </body>
 </html>
