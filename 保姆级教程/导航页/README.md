@@ -213,7 +213,7 @@ sortId: 1,
 
 <img src="../img/bmjjc/dhy/xg/qtxg5.png" height="400px" class="img" />
 
-## 关于
+# 关于
 
 ### 如果你遇到了什么问题可以通过以下方式来联系我给你解答🤓
 
