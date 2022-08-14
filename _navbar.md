@@ -2,7 +2,7 @@
 
 * ***文档***
     * [***文档***](README)
-    * [***API文档***](https://api.yan.vin:195)
+    * [***Yan的没啥用API文档***](https://api.yan.vin:195)
 * [***下载***](下载/)
 * [***聊天室***](https://yan.vin:555)
 * [***论坛鸭***](https://yan.vin:666)
