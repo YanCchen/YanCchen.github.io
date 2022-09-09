@@ -27,9 +27,9 @@
 
 **你可以通过以下云盘来下载🔽**
 
-* [蓝凑云（推荐）](https://yancchen.lanzouq.com/b03d0sbmd)
+* [蓝凑云](https://yancchen.lanzouq.com/b03d0sbmd)
 
-* [腾讯云盘（推荐）](https://share.weiyun.com/tQvCUafn)
+* [腾讯云盘](https://share.weiyun.com/tQvCUafn)
 
 * [阅流](https://yueliu.link/4fBSqb)
 
